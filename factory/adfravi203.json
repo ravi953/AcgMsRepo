@@ -1,0 +1,9 @@
+{
+	"name": "adfravi203",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b07aeed-6f5b-4910-be09-3aa6c438de4e",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
