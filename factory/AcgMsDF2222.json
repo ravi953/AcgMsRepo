@@ -1,0 +1,9 @@
+{
+	"name": "AcgMsDF2222",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81c25b17-45fb-4bab-8786-9ace27b4a025",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
